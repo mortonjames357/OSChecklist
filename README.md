@@ -24,7 +24,41 @@
 - [ ] Data Dictionary
 <img width="674" height="88" alt="image" src="https://github.com/user-attachments/assets/294a497f-2761-4826-a7b6-ed4c6581b3ef" />
 
+### Algorithms
+Provide algorithms for key processes (max 5)
+Use:  
+- Flowcharts  
+- Pseudocode
 
+  
+- Show inputs, provesses and outputs
+- Include security steps
+- Keep diagrams simple for non technical users
 
+### Testing
+Create a test table for the software.
+Outline:  
+- The test date  
+- The components to test  
+- The types of tests  
+- Prerequisites and Dependencies  
 
-      
+Types of tests:
+- Unit
+- Integration
+- Secuirty
+- Usability
+- Performance
+- Functional
+- Acceptance
+- Alpha
+- Beta
+- Black Box
+- White Box
+
+- Use 4-5 tests per component
+  
+### Communication of Design
+- Present all documentsin a clear, professional format
+- Use diagrmas, tables
+- Describe the diagrams, their purpose, what they showcase and how they support the design.
