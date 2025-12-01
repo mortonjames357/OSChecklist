@@ -7,6 +7,7 @@
 - [ ] High Fidelity WireFrames
 - [ ] Accessibility Features Included
 - [ ] Annotations of Wireframes
+- [ ] Contrast Ratios For Colour Scheme
 
 ### Data Requirements
 - [ ] Entity Relationship Diagram
