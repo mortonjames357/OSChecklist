@@ -30,14 +30,37 @@ Requirements
 - [ ] Table for functional requirements
 - [ ] Table for non-functional
 
-|    Functional Requirents    |   
-|No.|Name|Priority|Description|
+| No. | Name | Priority | Description |  
+| --- | --- | --- | --- |
+| 1 | Login | High | Login System |
 
 Decomposition
 - [ ] Break down as many requirements as possible
 
 KPI's and User Acceptance
+- [ ] 3-5 KPI's
+- [ ] In depth user acceptance critria
 
+Description
+- [ ] An indepth description of the entire project. What it is, what it does, why it does it, how it meets the clients needs etc.
+
+Client and User Needs
+- [ ] List of how it meets the needs and what they are
+- [ ] In depth description of how it does it
+- [ ] Paragraphs of functionality being explained to show how it meets their needs
+
+Risks, Mitigation and Wider Issues
+- [ ] Mention a risk
+- [ ] Give an example
+- [ ] Explain a solution
+- [ ] Do that multiple times
+
+Regulatory Guidelines and Legal Requirements
+- [ ] Mention a legal requirement
+- [ ] Mention an accessibility requirement
+- [ ] Explain how we are going to meet these requirements
+
+All research must be stored in appendicies and referenced within the page when it is talked about.
 
 
 
