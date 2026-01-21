@@ -118,3 +118,58 @@ Types of tests:
 - [ ] Present all documentsin a clear, professional format
 - [ ] Use diagrmas, tables
 - [ ] Describe the diagrams, their purpose, what they showcase and how they support the design.
+
+
+## Activity 3A Checklist
+
+### Starting talking points
+- How I will gather data for the app
+- Who am I going to ask (technical vs non-technical)
+- WHy I am going to ask them
+- Questions I will ask them
+- Tools i will use e.g. google forms, interviews, excel for graphs
+- Why it is important to gather feedback
+
+### Pictures/list of questions asked
+- Questionaire pictures
+- List of interview questions
+
+### Data anlysis
+ - Who responded
+ - First glance overview of data
+ - Analysis of different components (navigation, each different page, accessibility, design, etc)
+   - Graphs for quantitative data
+   - Exmaples of responses of qualitative data
+   - Short write up for what data shows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
