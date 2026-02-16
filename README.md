@@ -17,6 +17,9 @@
 - Include Security Concerns
 - Note relevennt laws
 
+<img width="637" height="603" alt="image" src="https://github.com/user-attachments/assets/d48fc049-0448-4fff-9300-daf7b995d502" />
+
+
 ### Proposal
 Business Context
 - [ ] Client Brief Review
