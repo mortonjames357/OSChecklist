@@ -142,6 +142,35 @@ Types of tests:
    - Exmaples of responses of qualitative data
    - Short write up for what data shows
 
+## Activity 3B Checklist
+
+### Introduction
+Introduce the prototype and what is going to be evaulated. 
+
+### Evaluation of Assets
+Evaluate the use of assets, pictures, font, information(where from), copyright, accessibility, reliabilty of source and validity of sources/
+
+### Evaluation of Requirements
+How well functiona; requirements were met
+How well non-functional were met
+Performance against a KPI
+Evaulated user acceptance criteria using evidence
+Used Task3A data to support
+
+### Improvements
+Realistic improvements
+Each improvement supported by Task3A evidence
+Explained why improvement matters
+Show how it helps users
+Triangulation (score + theme + quote)
+
+### Conclusion
+Final paragraph about how you feel it went, whats good, whats bad and what you would do differently. 
+
+
+
+
+
 
 
 
