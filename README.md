@@ -148,7 +148,7 @@ Types of tests:
 Introduce the prototype and what is going to be evaulated. 
 
 ### Evaluation of Assets
-Evaluate the use of assets, pictures, font, information(where from), copyright, accessibility, reliabilty of source and validity of sources/
+Evaluate the use of assets, pictures, font, information(where from), copyright, accessibility, reliabilty of source and validity of sources
 
 ### Evaluation of Requirements
 How well functiona; requirements were met
