@@ -20,22 +20,41 @@
 ### Proposal
 Business Context
 - [ ] Client Brief Review
+      - Sumarise clients goals and problems
+      - Keep it concise and sector neutral, link goals to user needs
+      - Mention any legal or regulatory requirements that affect the solution e.g. GDPR
 - [ ] Stakeholders
+      - Identify roles and interests
+      - Range of perspectives
+      - Show understanding od context and user needs
 - [ ] Constraints
+      - Budget, time, resources and compliance
+      - Mention legal constraints
 - [ ] Empathy mapping
+      - Understand user perspectives
+      - Consider privacy concerns and accessibility needs
 - [ ] SWOT analysis
-- [ ] User Stories
-- [ ] Acceptance Criteria
+      - Strengths, weakenesses, opportunities, threats
+      - Include security compliance in threats and weaknesses
+- [ ] User Stories & Acceptance Criteria
+      - Define what users need
+      - Measurable and clear
+
+
+      
 Requirements
 - [ ] Table for functional requirements
 - [ ] Table for non-functional
+- [ ] Requirements are measurable
 
 | No. | Name | Priority | Description |  
 | --- | --- | --- | --- |
 | 1 | Login | High | Login System |
 
 Decomposition
+- [ ] More descriptive paragraph about the requirements
 - [ ] Break down as many requirements as possible
+- [ ] Show dependencies
 
 KPI's and User Acceptance
 - [ ] 3-5 KPI's
@@ -61,7 +80,8 @@ Regulatory Guidelines and Legal Requirements
 - [ ] Explain how we are going to meet these requirements
 
 All research must be stored in appendicies and referenced within the page when it is talked about.
-
+- [ ] Appendix A including sections for different notes
+- [ ] Appendix B containing links for information I find 
 
 
 ## Activity B Checklist
