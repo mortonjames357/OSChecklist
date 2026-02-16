@@ -89,6 +89,9 @@ All research must be stored in appendicies and referenced within the page when i
 
 ## Activity B Checklist
 
+<img width="640" height="717" alt="image" src="https://github.com/user-attachments/assets/94ef0534-404a-446c-b310-de2949a646e0" />
+
+
 ### Visual/Interface Designs
 
 - [ ] High Fidelity WireFrames
