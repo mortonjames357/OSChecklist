@@ -112,17 +112,15 @@ All research must be stored in appendicies and referenced within the page when i
 - [ ] Data Dictionary
 
 ### Algorithms
-- [ ] Provide algorithms for key processes (max 5)
-Use:  
-- Flowcharts  
-- Pseudocode
-
-  
+- Provide algorithms for key processes (max 5)
+      Use:  
+      - Flowcharts  
+      - Pseudocode
 - Show inputs, provesses and outputs
 - Include security steps
 - Keep diagrams simple for non technical users
 
-### Testing
+### Testing                        
 - [ ] Create a test table for the software.
 Outline:  
 - [ ] The test date  
