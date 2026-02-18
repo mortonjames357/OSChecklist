@@ -1,6 +1,12 @@
 # OSChecklist
 
 ## Activity A Checklist
+
+### Tips
+Give as much information as possible
+Mix of quantitative and qualitiative data
+Research other similar applications
+
 ### Research
 - [ ] Cover Page
 - [ ] Hardware
@@ -66,6 +72,14 @@ All research must be stored in appendicies and referenced within the page when i
 
 ## Activity B Checklist
 
+### Tips
+Give everthing comments on visual design
+Write down what tags will be used for different headers or sections
+Simple, easy to navigate and consistent
+Make algorithms simple and understandable in both flowcharts and pseudocode
+Make erd inclusive with all information I will need
+
+
 ### Visual/Interface Designs
 
 - [ ] High Fidelity WireFrames
@@ -119,8 +133,28 @@ Types of tests:
 - [ ] Use diagrmas, tables
 - [ ] Describe the diagrams, their purpose, what they showcase and how they support the design.
 
+## Activity 2 Checklist
+- [ ] Descriptive and long comments mentioning why, legal and ethical
+- [ ] Error handling
+- [ ] Security measures (passwords in a hashset)
+- [ ] Consistent naming conventions (pick a case)
+- [ ] Good error messages and alerts
+- [ ] Accessiblity (different colour schemes(use cookies to make colour schemes stay))
+- [ ] As much testing as possible with a range of data (normal, boundary and extreme for every test case)
+- [ ] Detailed change log with multiple logs per version (date, version, title, description)
+- [ ] Development log (one for every version (date, version number, changes, notes))
+- [ ] Asset log (date, type of asset, source link, the actual asset, use of asset)
+  
+
+
 
 ## Activity 3A Checklist
+
+### Tips
+- [ ] Talk about target users in more depth (digital literacy, accesibility needs)
+- [ ] State how you will make the questioning ethical (asking for consent etc)
+- [ ] Talk about how you will compare differences between technical and non-technical users
+- [ ] Add examples of possible improvements
 
 ### Starting talking points
 - How I will gather data for the app
@@ -141,8 +175,14 @@ Types of tests:
    - Graphs for quantitative data
    - Exmaples of responses of qualitative data
    - Short write up for what data shows
+   - Examples of improvemetns
 
 ## Activity 3B Checklist
+
+### Tips
+- [ ] Need to evaulate not describe
+- [ ] Refer to as much evidence as possible
+- [ ] Evaluate the user experience
 
 ### Introduction
 Introduce the prototype and what is going to be evaulated. 
@@ -166,39 +206,4 @@ Triangulation (score + theme + quote)
 
 ### Conclusion
 Final paragraph about how you feel it went, whats good, whats bad and what you would do differently. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
