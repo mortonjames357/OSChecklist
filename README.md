@@ -3,12 +3,12 @@
 ## Activity A Checklist
 
 ### Tips
-Give as much information as possible
-Mix of quantitative and qualitiative data
-Research other similar applications
-Apendix A for research
-Apendix B for explaining different parts e.g. SWOT Analysis
-Apendix C for citations
+- Give as much information as possible
+- Mix of quantitative and qualitiative data
+- Research other similar applications
+- Apendix A for research
+- Apendix B for explaining different parts e.g. SWOT Analysis
+- Apendix C for citations
 
 ### Research
 - [ ] Cover Page
